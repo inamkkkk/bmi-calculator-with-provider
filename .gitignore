@@ -1,0 +1,53 @@
+# Automatically created by Android Studio
+.gradle
+/.idea
+/build
+*.iml
+
+# IntelliJ project files
+*.ipr
+*.iws
+*.iwr
+
+# Flutter
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugin-dependencies
+
+# Android
+android/key.properties
+android/local.properties
+
+# iOS
+ios/Podfile.lock
+ios/Pods/
+
+# macOS
+macos/Podfile.lock
+macos/Pods/
+
+# Windows
+windows/Pods/
+
+# Web
+web/packages/
+
+# Linux
+linux/Pods/
+
+# Generated files
+**/*.g.dart
+**/*.freezed.dart
+
+# Coverage data
+coverage/
+
+# Logs and temp files
+tmp/
+log/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
